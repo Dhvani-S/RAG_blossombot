@@ -1,0 +1,2 @@
+,chunks,query,query_toxic_score,start_time,halucination_score,meteor_score,cosine_sim_score,time_taken,refusal,session_id,response,response_toxic_score,bias_class,bias_score
+0,"['text_132', 'text_142', 'text_120', 'text_4', 'text_128']",hi,0.0010787998,1718050102.1280231,0.25158711075782775,0.0,0.8386237025260925,5.779955863952637,Not Detected,sess1718050102.11441,"Hello! I am BlossomBot, your guide to women's health. How can I assist you today?",0.009256505,Non-biased,0.450822114944458
