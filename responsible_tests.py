@@ -15,7 +15,7 @@ from langkit.openai import OpenAIDefault
 from Dbias.bias_classification import *
 from Dbias.text_debiasing import * 
 import spacy
-nlp = spacy.load("en_core_web_sm")
+#nlp = spacy.load("en_core_web_sm")
 
 def debiasing(text):
     classi_out = classify(text)
