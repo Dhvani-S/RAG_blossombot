@@ -12,8 +12,8 @@ from sentence_transformers import SentenceTransformer, util
 import nltk
 from langkit import proactive_injection_detection, extract, pii, light_metrics
 from langkit.openai import OpenAIDefault
-from Dbias.bias_classification import *
-from Dbias.text_debiasing import * 
+#from Dbias.bias_classification import *
+#from Dbias.text_debiasing import * 
 import spacy
 #nlp = spacy.load("en_core_web_sm")
 
